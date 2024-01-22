@@ -1,0 +1,41 @@
+{
+  "Contato": [
+    {
+      "name": 1,
+      "email": "json-server",
+      "message": "typicode",
+      "id": 0
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "email": "thebest@omilior.com",
+      "message": "Sou u milior",
+      "id": 1
+    },
+    {
+      "name": "Neymar",
+      "email": "caiu@foimal.com.br",
+      "message": "Errei, fui muleque",
+      "id": 2
+    }
+  ],
+  "Reserva": [
+    {
+      "booking-form-name": "",
+      "booking-form-phone": 0,
+      "booking-form-time": 0,
+      "booking-form-date": 0,
+      "booking-form-number": 0,
+      "id": 0
+    },
+    {
+      "booking-form-name": "Messi",
+      "booking-form-phone": "031 12345-6789",
+      "booking-form-time": "20:30",
+      "booking-form-date": "2024-01-22",
+      "booking-form-number": "1",
+      "booking-form-message": "levarei minhas bolas de ouro",
+      "id": 1
+    }
+  ]
+}

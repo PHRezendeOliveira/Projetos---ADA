@@ -1,0 +1,94 @@
+/* Reset de estilos padrão */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo da barra de navegação */
+.navbar {
+    background-color: #555;
+    padding: 10px;
+}
+
+.navbar-brand {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Estilo dos itens de navegação */
+.navbar-nav {
+    list-style-type: none;
+    margin: 0;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* Estilo da seção hero */
+.hero-section {
+    background-color: #888;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+
+
+/* Estilo da seção sobre */
+.about-section {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+/* Estilo da seção do menu */
+.menu-section {
+    background-color: #666;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+
+
+/* Estilo da seção de contato */
+.contact-section {
+    background-color: #888;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+/* Estilo do rodapé */
+.site-footer {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+
+
